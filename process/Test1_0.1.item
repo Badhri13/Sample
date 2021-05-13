@@ -102,8 +102,8 @@
     <routinesParameter id="_xQO70LO5EeuLA81FjWoahQ" name="StringHandling"/>
     <routinesParameter id="_xReR8LO5EeuLA81FjWoahQ" name="TalendDataGenerator"/>
     <routinesParameter id="_xSWbsLO5EeuLA81FjWoahQ" name="TalendDate"/>
-    <routinesParameter id="_xTGpoLO5EeuLA81FjWoahQ" name="TalendString"/>
     <routinesParameter id="_xU5ZYLO5EeuLA81FjWoahQ" name="TalendStringUtil"/>
+    <routinesParameter id="_xTGpoLO5EeuLA81FjWoahQ" name="TalendString"/>
   </parameters>
   <node componentName="tRowGenerator" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="96" posY="96">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tRowGenerator_1" show="false"/>
